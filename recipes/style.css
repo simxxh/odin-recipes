@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+
+img {
+    width: 540px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+h2 {
+    color:darkred;
+    font-size: 30px;
+}
+
+h3,
+h4 {
+    font-size: 25px;
+}
+
+p,
+li {
+    font-size: 18px;
+}
